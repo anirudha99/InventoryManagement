@@ -1,0 +1,42 @@
+{
+	"inventory": [
+		{
+		"type": "Rice",
+		"name": "Basmati",
+		"weight": 40.0,
+		"priceperKg": 60.0
+		},
+		{
+		"type": "Rice",
+		"name": "Sona masori",
+		"weight": 35.0,
+		"priceperKg": 50.0
+		},
+		{
+		"type": "Wheat",
+		"name": "Royal",
+		"weight": 70.0,
+		"priceperKg": 65.0
+		},
+		{
+		"type": "Wheat",
+		"name": "Standard",
+		"weight": 45.0,
+		"priceperKg": 40.0
+		},
+		{
+		"type": "Pulses",
+		"name": "Peas",
+		"weight": 25.0,
+		"priceperKg": 35.0
+		},
+		{
+		"type": "Pulses",
+		"name": "Urad dal",
+		"weight": 45.0,
+		"priceperKg": 50.0
+		}
+		
+		]
+}
+
